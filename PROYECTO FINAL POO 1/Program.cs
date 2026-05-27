@@ -7,10 +7,13 @@ using System.Threading.Tasks;
 
 namespace PROYECTO_FINAL_POO_1 //VENTA DE COMIDA DOÑA SHENI 
 {
-	public class comida
+	public class cliente
 	{
-		private string cliente;
+		private string Nombre;
 		private int codigo;
+		private int telefono;
+		private string correo;
+
 
 	}
 	internal class Program
